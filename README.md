@@ -1,2 +1,2 @@
 # wakafrontend
-This is for netlify depolyment
+this is the front end folder for the netlify

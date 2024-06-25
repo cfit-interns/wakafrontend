@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ddd3d637.css",
+    "main.js": "/static/js/main.e3cb2108.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/KylieCarpenter.jpg": "/static/media/KylieCarpenter.ba53c333f32eff424018.jpg",
+    "static/media/service.png": "/static/media/service.1eab615c43b4a49d1440.png",
+    "static/media/location.jpg": "/static/media/location.2102cc137a53a770430c.jpg",
+    "static/media/purpose.png": "/static/media/purpose.7f7b44c44b96cc74f616.png",
+    "static/media/supporting.png": "/static/media/supporting.50407c8e7fb59bb541eb.png",
+    "static/media/vision.png": "/static/media/vision.cbd537346f2912bfc26b.png",
+    "static/media/Judy.jpg": "/static/media/Judy.cb1baaca341d639adcbe.jpg",
+    "static/media/wheelchair.png": "/static/media/wheelchair.179dff0ec15e13e1a8e2.png",
+    "static/media/walking-stick.png": "/static/media/walking-stick.761fc2b9a79357afd6e7.png",
+    "static/media/IMG20221121141352-scaled-e1675734206691.jpg": "/static/media/IMG20221121141352-scaled-e1675734206691.5512b83e61124a20c68c.jpg",
+    "static/media/WhakataneOhope-CommunityBoard.jpg": "/static/media/WhakataneOhope-CommunityBoard.4dc95ae947dd32f8bad4.jpg",
+    "static/media/Colleen-e1674698144901.jpg": "/static/media/Colleen-e1674698144901.d6d3f2e09b539ea2432f.jpg",
+    "static/media/MSD-Logo.webp": "/static/media/MSD-Logo.6c0f76ce1e8546a27aa1.webp",
+    "static/media/modules.woff": "/static/media/modules.baf9138fbe9e9b5b0765.woff",
+    "static/media/David-e1674698121797.jpg": "/static/media/David-e1674698121797.551295753c65eb64319b.jpg",
+    "static/media/BT_wordmark_tagline_blue.png": "/static/media/BT_wordmark_tagline_blue.b7ebeba0e5ad6b4517fa.png",
+    "static/media/Renee-Lubbe-photo-for-website-e1678316201923.jpg": "/static/media/Renee-Lubbe-photo-for-website-e1678316201923.efb7ff5817f54a56941c.jpg",
+    "static/media/Amohaere-e1674698182699.jpg": "/static/media/Amohaere-e1674698182699.35aa76cc36b8541d4b52.jpg",
+    "static/media/Andrew-e1674698164196.jpg": "/static/media/Andrew-e1674698164196.c9d9858d82c58271b8b6.jpg",
+    "static/media/LNZ-LGB-3to1-RGB.png": "/static/media/LNZ-LGB-3to1-RGB.511ed32c0ab04c589657.png",
+    "static/media/1622587470_Aotearoa-Gaming-Trust-DARK-BLUE-RGB.png": "/static/media/1622587470_Aotearoa-Gaming-Trust-DARK-BLUE-RGB.ef5dd4ddc05b8655013c.png",
+    "static/media/wakaeasternbaylogo.png": "/static/media/wakaeasternbaylogo.63378daa2eb53410747a.png",
+    "static/media/Lee-e1674698075110.jpg": "/static/media/Lee-e1674698075110.6e2ea2dac9a7341dd979.jpg",
+    "static/media/Waka-Eastern-Bay-sq-logo-light-bright-1.png": "/static/media/Waka-Eastern-Bay-sq-logo-light-bright-1.70cb8790aea41ac998dd.png",
+    "index.html": "/index.html",
+    "main.ddd3d637.css.map": "/static/css/main.ddd3d637.css.map",
+    "main.e3cb2108.js.map": "/static/js/main.e3cb2108.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddd3d637.css",
+    "static/js/main.e3cb2108.js"
+  ]
+}
