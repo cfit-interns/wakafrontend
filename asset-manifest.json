@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.ddd3d637.css",
-    "main.js": "/static/js/main.e3cb2108.js",
+    "main.css": "/static/css/main.d59c671a.css",
+    "main.js": "/static/js/main.2f8d9b25.js",
     "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
     "static/media/KylieCarpenter.jpg": "/static/media/KylieCarpenter.ba53c333f32eff424018.jpg",
     "static/media/service.png": "/static/media/service.1eab615c43b4a49d1440.png",
@@ -28,12 +28,12 @@
     "static/media/Lee-e1674698075110.jpg": "/static/media/Lee-e1674698075110.6e2ea2dac9a7341dd979.jpg",
     "static/media/Waka-Eastern-Bay-sq-logo-light-bright-1.png": "/static/media/Waka-Eastern-Bay-sq-logo-light-bright-1.70cb8790aea41ac998dd.png",
     "index.html": "/index.html",
-    "main.ddd3d637.css.map": "/static/css/main.ddd3d637.css.map",
-    "main.e3cb2108.js.map": "/static/js/main.e3cb2108.js.map",
+    "main.d59c671a.css.map": "/static/css/main.d59c671a.css.map",
+    "main.2f8d9b25.js.map": "/static/js/main.2f8d9b25.js.map",
     "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ddd3d637.css",
-    "static/js/main.e3cb2108.js"
+    "static/css/main.d59c671a.css",
+    "static/js/main.2f8d9b25.js"
   ]
 }
